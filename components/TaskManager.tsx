@@ -10,6 +10,7 @@ export const TaskSchema = {
       isCompleted: { type: 'bool', default: false },
     },
     primaryKey: '_id',
+    
   };
 
   export const TaskSchema2 = {
